@@ -1,0 +1,1 @@
+console.log("will deploy commands onto discord")

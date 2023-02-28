@@ -1,0 +1,23 @@
+{
+  "name": "wondobot",
+  "version": "1.0.0",
+  "description": "Discord bot that will allow users to predict, see predication table, and schedule for the MLS soccer team, the San Jose Earthquakes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jf2024/WondoBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jf2024/WondoBot/issues"
+  },
+  "homepage": "https://github.com/jf2024/WondoBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
