@@ -5,6 +5,6 @@ module.exports = {
     once: true,
     execute(client) {
         console.log(`Ready! Logged in as ${client.user.tag}`);
-		console.log("Read for users to use commands!")
+        console.log("Ready for users to use commands!");
     },
 };
